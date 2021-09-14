@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "889248666886",
+    "firebase_url": "https://licenseapplication-7eef5-default-rtdb.firebaseio.com",
+    "project_id": "licenseapplication-7eef5",
+    "storage_bucket": "licenseapplication-7eef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889248666886:android:994bfdfbfc29aa173bba87",
+        "android_client_info": {
+          "package_name": "kovacs.chatlicenseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889248666886-fb09ffql3gbqi1equm6kubb6uls3sktj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRF_q86UAtQ1FPcme3zZQLEULdfVsDng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889248666886-fb09ffql3gbqi1equm6kubb6uls3sktj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889248666886:android:d8e7c4eca631923f3bba87",
+        "android_client_info": {
+          "package_name": "license.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889248666886-fb09ffql3gbqi1equm6kubb6uls3sktj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRF_q86UAtQ1FPcme3zZQLEULdfVsDng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889248666886-fb09ffql3gbqi1equm6kubb6uls3sktj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

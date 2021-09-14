@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Chat - NoGroup</string>
+    <string name="login">Autentificare</string>
+    <string name="register_step">Următorul pas</string>
+    <string name="register">Înregistrare</string>
+    <string name="password">Parola</string>
+    <string name="confirm_password">Confirmă parola</string>
+    <string name="to_create_account">Creează un cont</string>
+    <string name="exist_account">Ai deja un cont ?</string>
+    <string name="email">Email</string>
+    <string name="username">Nume</string>
+    <string name="forgotPassword">Ți-ai uitat parola ?</string>
+    <string name="reset_password">Schimbă-ți parola</string>
+    <string name="welcome_text">Bine ai venit pe Chat - NoGroup</string>
+    <string name="more_info">Mai multe informații</string>
+    <string name="set_profile_info">Vă rugăm să indroduceți numele dvs.</string>
+    <string name="status">Starea mea</string>
+    <string name="add_status">Atingeți pentru a adăuga o stare</string>
+    <string name="select_contact">Selectează contactul</string>
+    <string name="bio">Descriere</string>
+    <string name="status_comment">Adăugați un comentariu ...</string>
+    <string name="status_description">Descriere</string>
+    <string name="status_view_number"> 0</string>
+
+    <!-- Settings strings -->
+    <string name="settings">Setări</string>
+    <string name="search">Caută</string>
+    <string name="profile">Profil</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  SettingActivity strings  -->
+    <string name="account">Cont</string>
+    <string name="account_info">Confid., stergere cont</string>
+    <string name="leave_account">Deconectare</string>
+    <string name="help">Ajutor</string>
+    <string name="help_info">Întrebări, contact, politică de confid.</string>
+    <string name="conversation">Conversații</string>
+    <string name="conversation_info">Temă, fundal</string>
+    <string name="invite">Invită un prieten</string>
+
+    <!--  ProfileActivity strings  -->
+    <string name="profile_account">Informații cont</string>
+    <string name="profile_name_description">Numele introdus aici va putea fi văzut de persoanele care folosesc această aplicație. Acesta nu este numele de utilizator.</string>
+    <string name="profile_info">Info</string>
+    <string name="hint_type_email">Introduce-ți o adresă de email!</string>
+    <string name="enter_email">Schimbare adresă email </string>
+
+    <!--  ChatFragment strings  -->
+    <string name="invite_friend">Invită-ți prietenii</string>
+    <string name="use_application">Niciunul dintre prietenii dvs. nu folosește Chat - NoGroup? Folosiți butonul de mai jos pentru a-i invita.</string>
+
+    <!--  Chat_list strings  -->
+    <string name="message_date">01.01.2021</string>
+    <string name="type_text_hint">Scrieți un mesaj</string>
+    <string name="time">01:00</string>
+
+    <!--  BottomSheetEditPhoto  -->
+    <string name="profile_image">Poză de profil</string>
+    <string name="gallery">Galerie</string>
+    <string name="camera">Cameră</string>
+
+    <!-- BottomSheetEditName  -->
+    <string name="enter_name">Schimbare nume utilizator</string>
+    <string name="hint_type_name">Numele dvs.</string>
+    <string name="cancel">ANULAȚI</string>
+    <string name="save">SALVAȚI</string>
+
+    <!--  Future_edit bio  -->
+    <string name="available">Available</string>
+
+    <!--  Attach_button_strings  -->
+    <string name="attach_document">Document</string>
+    <string name="attach_audio">Audio</string>
+    <string name="attach_location">Locație</string>
+    <string name="attach_contact">Contact</string>
+</resources>
